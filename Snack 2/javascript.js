@@ -59,8 +59,6 @@ console.log(nomiFalli);
 
 
 
-// una funzione può ricevere come argomento un'altra funzione?
-
 
 
 
